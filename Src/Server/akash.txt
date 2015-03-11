@@ -1,0 +1,7 @@
+README.txt?/home/btech/cs1130204/Desktop/Pitara/README.txt?1?7eef4391-9af1-4815-8c7c-c4773345947a-1-README.txt
+file3.pdf?./clientfolder/MyPitara/file3.pdf?1?3db49f33-3302-4f15-9c64-f9c62473ab1f-1-file3.pdf
+abc.txt?./clientfolder/MyPitara/another/abc.txt?1?b6bc8130-5a55-4e8a-b8bb-156a62231d50-1-abc.txt
+making2.txt?./clientfolder/MyPitara/another/client stuff/making2.txt?1?3f86c6a9-bcd8-4644-a471-f2bf54bca747-1-making2.txt
+making.txt?./clientfolder/MyPitara/another/client stuff/making.txt?1?15fc7bc6-b176-4e39-97e3-4f3088343984-1-making.txt
+here.txt?./clientfolder/MyPitara/folder/here.txt?1?3f2ee6e9-4c8b-4076-93c6-330aaef6b82d-1-here.txt
+file.pdf?./clientfolder/MyPitara/file.pdf?1?e9a9de4f-432a-4bfe-9706-4ea1674082ec-1-file.pdf
